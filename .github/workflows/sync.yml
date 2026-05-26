@@ -1,6 +1,8 @@
 name: Weekly Airline Rules Update
 
 on:
+  push:
+    branches: [ main ]
   schedule:
     # Запуск каждое воскресенье в 00:00 UTC
     - cron: '0 0 * * 0'
