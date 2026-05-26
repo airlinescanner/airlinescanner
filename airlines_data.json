@@ -1,353 +1,295 @@
 {
-  "lastUpdated": "2026-05-26T11:46:44.045Z",
+  "lastUpdated": "2026-05-26T12:37:28.763Z",
   "airlines": [
     {
       "iataCode": "LH",
-      "success": true,
-      "hours": 30,
-      "url": "https://www.lufthansa.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "LO",
-      "success": true,
-      "hours": 36,
-      "url": "https://www.lot.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "FR",
-      "success": true,
-      "hours": 24,
-      "url": "https://www.ryanair.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "W6",
-      "success": true,
-      "hours": 24,
-      "url": "https://wizzair.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "AF",
-      "success": true,
-      "hours": 30,
-      "url": "https://www.airfrance.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "BA",
-      "success": true,
-      "hours": 24,
-      "url": "https://www.britishairways.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "KL",
-      "success": true,
-      "hours": 30,
-      "url": "https://www.klm.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "U2",
-      "success": true,
-      "hours": 720,
-      "url": "https://www.easyjet.com/en/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "IB",
-      "success": true,
-      "hours": 24,
-      "url": "https://www.iberia.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "VY",
-      "success": true,
-      "hours": 72,
-      "url": "https://www.vueling.com/en/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "LX",
-      "success": true,
-      "hours": 23,
-      "url": "https://www.swiss.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "OS",
-      "success": true,
-      "hours": 47,
-      "url": "https://www.austrian.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "SN",
-      "success": true,
-      "hours": 24,
-      "url": "https://www.brusselsairlines.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "AY",
-      "success": true,
-      "hours": 36,
-      "url": "https://www.finnair.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "SK",
-      "success": true,
-      "hours": 22,
-      "url": "https://www.flysas.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "TP",
-      "success": true,
-      "hours": 36,
-      "url": "https://www.flytap.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "A3",
-      "success": true,
-      "hours": 48,
-      "url": "https://en.aegeanair.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "EI",
-      "success": true,
-      "hours": 48,
-      "url": "https://www.aerlingus.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "UX",
-      "success": true,
-      "hours": 48,
-      "url": "https://www.aireuropa.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "BT",
-      "success": true,
-      "hours": 36,
-      "url": "https://www.airbaltic.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "PS",
-      "success": true,
-      "hours": 24,
-      "url": "https://www.flyuia.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "PQ",
-      "success": true,
-      "hours": 48,
-      "url": "https://skyup.aero/my-booking"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "7W",
-      "success": true,
-      "hours": 24,
-      "url": "https://windrose.kiev.ua/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "TK",
-      "success": true,
-      "hours": 24,
-      "url": "https://www.turkishairlines.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "PC",
-      "success": true,
-      "hours": 72,
-      "url": "https://www.flypgs.com/en/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "EK",
-      "success": true,
-      "hours": 48,
-      "url": "https://www.emirates.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "QR",
-      "success": true,
-      "hours": 48,
-      "url": "https://www.qatarairways.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "EY",
-      "success": true,
-      "hours": 30,
-      "url": "https://www.etihad.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "FZ",
-      "success": true,
-      "hours": 48,
-      "url": "https://www.flydubai.com/en/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "LY",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "AA",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "DL",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "UA",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "SQ",
-      "success": true,
-      "hours": 48,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "CX",
-      "success": true,
-      "hours": 48,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "JL",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "KE",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "TG",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "QF",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "NZ",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "CI",
-      "success": true,
-      "hours": 48,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "BR",
-      "success": true,
-      "hours": 48,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "ET",
-      "success": true,
-      "hours": 36,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "MS",
-      "success": true,
-      "hours": 48,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "AT",
-      "success": true,
-      "hours": 48,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "KQ",
-      "success": true,
-      "hours": 30,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "DY",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "J2",
-      "success": true,
-      "hours": 24,
-      "url": "https://www.azal.az/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "HY",
-      "success": true,
-      "hours": 24,
-      "url": "https://www.uzairways.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "T5",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "A9",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "9U",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "5F",
-      "success": true,
-      "hours": 24,
-      "url": "https://flyone.eu/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "KC",
-      "success": true,
-      "hours": 36,
-      "url": "https://airastana.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "DV",
-      "success": true,
-      "hours": 24,
-      "url": null
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "FS",
-      "success": true,
-      "hours": 24,
-      "url": "https://flyarystan.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "IQ",
-      "success": true,
-      "hours": 24,
-      "url": "https://flyqazaq.com/check-in"
+      "success": false,
+      "reason": "No internet search results"
     },
     {
       "iataCode": "4Y",
-      "success": true,
-      "hours": 30,
-      "url": "https://www.discover-airlines.com/en/check-in/"
+      "success": false,
+      "reason": "No internet search results"
     }
   ]
 }
