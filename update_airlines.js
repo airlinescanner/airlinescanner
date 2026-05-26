@@ -43,7 +43,7 @@ async function searchWithTavily(query) {
 }
 
 async function analyzeWithGemini(searchContext, airline) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_KEY}`;
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_KEY}`;
   
   const prompt = `
     Analyze this search result and extract current check-in rules for airline: ${airline.name} (${airline.iataCode}).
